@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
+*.pyc
+gold_project/
+*.joblib
+*.csv
+model_metadata.json
